@@ -6,6 +6,6 @@ Cleaned datasets and figures are also available on the projects OSF page: https:
 Our primary meta-analysis was preregisterred https://osf.io/be4nt, https://osf.io/mp49y, https://osf.io/3dz54
 
 There are three notebooks in this repository:  
-`notebooks/diagrams_based_on_other_reviews.ipnyb` contains code for figures 1 and 2.  
-`notebooks/metaanalysis.ipnyb` contains code for our primary metaanalysis and figure 3. Note that MetaNsue, the tool we used for our meta-analysis has some variability in results from run to run if it is estimating null effects, so your results may not exactly match our published values, but should be accurate to within several 100ths.  
-`notebooks/account_for_measurment_error.ipynb` contains code for our exploratory analysis of the impact of measurement error on our meta-analytic findings.
+`notebooks/diagrams_based_on_other_reviews.ipnyb` contains code for figures 2 and 3.  
+`notebooks/metaanalysis.ipnyb` contains code for our primary metaanalysis and figure 4. Note that MetaNsue, the tool we used for our meta-analysis has some variability in results from run to run if it is estimating null effects, so your results may not exactly match our published values, but should be accurate to within several 100ths.  
+`notebooks/account_for_measurment_error.ipynb` contains code for our exploratory analysis of the impact of measurement error on our meta-analytic findings, displayed in figures 5 and 6.
