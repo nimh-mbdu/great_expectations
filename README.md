@@ -1,6 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nimh-mbdu/great_expectations/master)  
 # great_expectations
-Code and source data for the manuscript "Great Expectations: A Critical Review of and Recommendations for the study of Reward Processing as a Cause and Predictor of Depression".
+Code and source data for the manuscript "Great Expectations: A Critical Review of and Suggestions for the study of Reward Processing as a Cause and Predictor of Depression".
+Published at: https://www.biologicalpsychiatryjournal.com/article/S0006-3223(20)31700-5/fulltext
 
 Cleaned datasets and figures are also available on the projects OSF page: https://osf.io/whvam/  
 Our primary meta-analysis was preregisterred https://osf.io/be4nt, https://osf.io/mp49y, https://osf.io/3dz54
